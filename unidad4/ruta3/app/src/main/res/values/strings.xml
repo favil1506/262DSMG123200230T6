@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Mi Lima</string>
+
+    <!-- Categories -->
+    <string name="category_parque">Parques</string>
+    <string name="category_restaurante">Restaurantes</string>
+    <string name="category_museo">Museos</string>
+    <string name="category_playa">Playas</string>
+    <string name="category_centro_comercial">Centros Comerciales</string>
+    <string name="recommendation_details">Detalles</string>
+
+    <!-- Parques -->
+    <string name="parque_olivar_title">Parque del Olivar</string>
+    <string name="parque_olivar_description">Un pulmón verde en el corazón de San Isidro con más de 2,000 olivos centenarios. Ideal para caminar, hacer picnic y disfrutar de la naturaleza en plena ciudad.</string>
+
+    <string name="parque_reserva_title">Parque de la Reserva</string>
+    <string name="parque_reserva_description">Hogar de los famosos Circutos Mágicos del Agua, el parque más grande del centro de Lima con fuentes iluminadas y espectáculos nocturnos.</string>
+
+    <string name="campo_marte_title">Campo de Marte</string>
+    <string name="campo_marte_description">El parque urbano más extenso de Lima ubicado en Jesús María. Perfecto para deportes, caminatas y actividades al aire libre.</string>
+
+    <!-- Restaurantes -->
+    <string name="restaurante_central_title">Central</string>
+    <string name="restaurante_central_description">Restaurante classificado como el mejor del mundo. Cocina peruana de altitud con ingredientes autóctonos de los Andes, selva y costa.</string>
+
+    <string name="restaurante_maido_title">Maido</string>
+    <string name="restaurante_maido_description">La mejor Nikkei del mundo. Fusión única entre la cocina japonesa y los sabores peruanos en el distrito de Miraflores.</string>
+
+    <string name="restaurante_la_mar_title">La Mar</string>
+    <string name="restaurante_la_mar_description">Cevichería premium de Gastón Acurio. Mariscos frescos del día, tiraditos y ceviches en un ambiente vibrante y costeño.</string>
+
+    <!-- Museos -->
+    <string name="museo_mali_title">MALI</string>
+    <string name="museo_mali_description">Museo de Arte de Lima. Colección permanente que recorre 3,000 años de arte peruano, desde cerámicas precolombinas hasta arte contemporáneo.</string>
+
+    <string name="museo_larco_title">Museo Larco</string>
+    <string name="museo_larco_description">Museo privado con la mayor colección de arte precolumbino del Perú. Joyas de oro, cerámicas eróticas y tesoros de civilizaciones milenarias.</string>
+
+    <string name="museo_artesanias_title">Casa de las Granaderas</string>
+    <string name="museo_artesanias_description">Museo de arte popular peruano ubicado en una casona colonial. Artesanías, textiles y cerámicas de todas las regiones del Perú.</string>
+
+    <!-- Playas -->
+    <string name="playa_miraflores_title">Costa Verde - Miraflores</string>
+    <string name="playa_miraflores_description">La playa más icónica de Lima. Acantilados verdes, parapente, surfing y el Malecón para caminar al atardecer con vista al Pacífico.</string>
+
+    <string name="playa_barranco_title">Playa Barranco</string>
+    <string name="playa_barranco_description">Playa bohemia rodeada de arte urbano y murales. Cerca del Puente de los Suspiros y la zona más artística de Lima.</string>
+
+    <string name="playa_costa_verde_title">Costa Verde</string>
+    <string name="playa_costa_verde_description">Extensa franja de playa rocosa que conecta Miraflores con Chorrillos. Ideal para caminar, ciclear y ver surfistas.</string>
+
+    <!-- Centros Comerciales -->
+    <string name="centro_jockey_title">Jockey Plaza</string>
+    <string name="centro_jockey_description">El centro comercial más exclusivo de Lima. Marcas internacionales, cine, restaurantes gourmet y zonas de entretenimiento.</string>
+
+    <string name="centro_megaplaza_title">MegaPlaza</string>
+    <string name="centro_megaplaza_description">Uno de los centros comerciales más grandes de Lima. Tiendas de todo tipo, food court y zona de entretenimiento para toda la familia.</string>
+
+    <string name="centro_real_plaza_title">Real Plaza Pro</string>
+    <string name="centro_real_plaza_description">Centro comercial moderno en Surco. Cines, restaurantes, tiendas de moda y zona de eventos culturales.</string>
+</resources>

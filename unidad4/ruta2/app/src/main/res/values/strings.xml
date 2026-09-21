@@ -1,0 +1,27 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">Lunch Tray</string>
+    <string name="screen_start">Lunch Tray</string>
+    <string name="screen_entree_menu">Menú de platos principales</string>
+    <string name="screen_sides">Menú de guarniciones</string>
+    <string name="screen_dessert">Menú de acompañamientos</string>
+    <string name="screen_confirmation">Confirmación de compra</string>
+    <string name="screen_back_button">Atrás</string>
+    <string name="start_order">Empezar pedido</string>
+    <string name="next">Siguiente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="submit">Enviar</string>
+    <string name="order_summary">Resumen del pedido</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Impuesto</string>
+    <string name="total">Total: %s</string>
+</resources>
+=======
+    <string name="app_name">Dessert Clicker</string>
+    <string name="dessert_sold">Desserts sold</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="share">Share</string>
+    <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+</resources>
+>>>>>>> 48c784698003222ea36cf7e26b285317fee79f13

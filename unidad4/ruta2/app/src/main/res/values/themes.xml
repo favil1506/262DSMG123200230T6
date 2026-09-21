@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<<<<<<< HEAD
+    <style name="Theme.Unidad4Ruta2" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Unidad4Ruta1" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 48c784698003222ea36cf7e26b285317fee79f13
+</resources>
